@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomad31415/bamazon.git"
+  },
+  "author": "igor Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomad31415/bamazon/issues"
+  },
+  "homepage": "https://github.com/nomad31415/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
